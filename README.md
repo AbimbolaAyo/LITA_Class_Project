@@ -87,3 +87,5 @@ GROUP BY Region; to Calculate total sales and average profit by region
 ![Pivot Table](https://github.com/user-attachments/assets/4f6718e0-8740-42f2-89c8-9c24b4f7553d)
 
 
+
+
