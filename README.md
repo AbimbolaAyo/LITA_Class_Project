@@ -81,3 +81,5 @@ GROUP BY Region; to Calculate total sales and average profit by region
 ```
 
 ### Data Visualization
+---
+
