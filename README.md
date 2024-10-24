@@ -10,4 +10,10 @@ The Sales Analysis project aims to explore and understand sales data to identify
 
 ### Data Sources
 
-The primary source of Data used here is Data Sale.csv and this is open source data that can be freely downloaded from an open source online such as Kaggle, FRED or any other data repository site.
+The primary source of Data used here is Data Sale.csv, which is open source data that can be freely downloaded from an online repository such as Kaggle, FRED, or any other site.
+
+### Tools Used
+- Microsoft Excel for Data Cleaning, Analysis, and Visualization.
+- SQL - Structured Query Language for Querying of Data.
+- PowerBI - Power Business Intelligence for Data Visualization, Business Intelligence Reporting, Data Integration, Data Modeling, Dashboard and Report sharing.
+
