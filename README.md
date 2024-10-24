@@ -14,10 +14,24 @@ The primary data source used here is Data Sale.csv, which is open-source data th
 
 ### Tools Used
 - Microsoft Excel [Download Here].(https://www.microsoft.com)
-    1. For data Cleaning
+    1. For Data Cleaning
     2. For Data Analysis
     3. For Visualization.
       
 - SQL - Structured Query Language for Querying of Data.
 - PowerBI - Power Business Intelligence for Data Visualization, Business Intelligence Reporting, Data Integration, Data Modeling, Dashboard and Report sharing.
+- Github for Portfolio Building.
+
+### Data Cleaning and Preparation
+
+In the initial phase of the Data cleaning and preparation, we perform the following actions;
+  1. Handling Missing Data
+  2. Removing Duplicate Records
+  3. Correcting Data Types
+  4. Handling Outliers
+  5. Standardizing and Normalizing Data
+  6. Dealing with Inconsistent Data
+  7. Handling Data Entry Errors
+  8. Data Integration and Merging
+  9.  Removing Irrelevant Data
 
