@@ -79,5 +79,5 @@ GROUP BY Region; to Calculate total sales and average profit by region
 - Total Sales = SUM(Sales[Sales]) Total Sales Measure
 - Average Profit = AVERAGE(Sales[Profit]) Average Profit Measure
 ```
-- 
 
+### Data Visualization
