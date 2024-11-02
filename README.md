@@ -86,7 +86,6 @@ GROUP BY Region; to Calculate total sales and average profit by region
 ![Bar Chart](https://github.com/user-attachments/assets/9b482705-b658-455a-84ae-9b85c7e931f3)
 ![Sales Reort using Slicer](https://github.com/user-attachments/assets/49633d90-3af0-4827-9218-4e241560ca90)
 ![Pivot Table](https://github.com/user-attachments/assets/4f6718e0-8740-42f2-89c8-9c24b4f7553d)
-![Sql project 1](https://github.com/user-attachments/assets/b06fdaf9-29bd-45ca-803e-21e432e2f285)
 
 
 
